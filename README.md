@@ -69,7 +69,7 @@ c.close()
 
 ![WhatsApp Image 2026-03-18 at 10 39 32 AM](https://github.com/user-attachments/assets/687c0ae1-c1eb-4a97-9d06-36f22fdb3dd6)
 
-![WhatsApp Image 2026-03-18 at 10 39 40 AM](https://github.com/user-attachments/assets/f6e92fe2-63b0-4086-b019-31757b66a3e0)
+
 
 
 ## PROGRAM - RARP
@@ -100,7 +100,7 @@ c.send("Not Found".encode())
 ~~~
 ##OUTPUT - RARP
 
-![WhatsApp Image 2026-03-18 at 10 51 02 AM](https://github.com/user-attachments/assets/4009056f-271d-4259-b02a-181ee3e4ad58)
+![WhatsApp Image 2026-03-18 at 10 39 40 AM](https://github.com/user-attachments/assets/f6e92fe2-63b0-4086-b019-31757b66a3e0)
 
 
 ## RESULT
